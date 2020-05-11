@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon assignments.js",
+    "start": "nodemon assignment-1.js",
     "eslint": "eslint *.js"
   },
   "author": "",
