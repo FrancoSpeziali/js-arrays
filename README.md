@@ -1,4 +1,4 @@
-# Project Name
+# Various array assignments
 
 ## Installation
 
@@ -57,3 +57,5 @@ Once this is done, create a **Pull Request** from the `solution` branch to the `
 via the GitHub interface.
 
 ## Assignments
+
+Please refer to the files named `assignment-1` - `assignment-7` for additional instructions
